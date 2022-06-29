@@ -43,7 +43,7 @@ işlemleri için kullanılmıştır.
 <li>Stoklar Ekranı</li>
 <img width="600" height="300" src="https://github.com/esrkrt/Ogretmen-Evi-Otomasyonu/blob/master/Ekran%20G%C3%B6r%C3%BCnt%C3%BCleri/Stoklar.png">
 <li>Gazeteler Ekranı</li>
-<img width="600" height="300" src="https://github.com/esrkrt/Ogretmen-Evi-Otomasyonu/blob/master/Ekran%20G%C3%B6r%C3%BCnt%C3%BCleri/Gazeteler.png>
+<img width="600" height="300" src="https://github.com/esrkrt/Ogretmen-Evi-Otomasyonu/blob/master/Ekran%20G%C3%B6r%C3%BCnt%C3%BCleri/Gazeteler.png">
 <li>Mesajlaşma Ekranı</li>
 <img width="600" height="300" src="https://github.com/esrkrt/Ogretmen-Evi-Otomasyonu/blob/master/Ekran%20G%C3%B6r%C3%BCnt%C3%BCleri/Mesajlar.png ">
 <li>Radyo Ekranı</li>
