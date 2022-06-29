@@ -79,7 +79,7 @@ namespace Öğretmen_Evi_Uygulaması
         private void BtnGuncelle_Click(object sender, EventArgs e)
         {
             baglanti.Open();
-            SqlCommand komut = new SqlCommand("update MusteriEkle set Adi='" + TxtAdi.Text + "',Soyadi='"+TxtSoyadi.Text+ "',Cinsiyet='" + cmbcinsiyet.Text + "',Telefon='" + MskTxtTelefon.Text + "',Mail='" + TxtMail.Text + "',TC='" + TxtKimlikNo.Text + "',OdaNo='" + TxtOdaNo.Text + "',Ucret='" + TxtUcret.Text + "',GirisTarihi='" + DtpGirisTarihi.Value.ToString("yyyy-MM-dd") +"',CikisTarihi='"+ DtpCikisTarihi.Value.ToString("yyyy-MM-dd") + "'Where ID="+id+"", baglanti);
+            SqlCommand komut = new SqlCommand("update MusteriEkle set Adi='" + TxtAdi.Text + "',Soyadi='"+TxtSoyadi.Text+ "',Cinsiyet='" + cmbcinsiyet.Text + "',Telefon='" + MskTxtTelefon.Text + "',Mail='" + TxtMail.Text + "',TC='" + TxtKimlikNo.Text + "',OdaNo='" + TxtOdaNo.Text + "',Ucret='" + TxtUcret.Text + "',GirisTarihi='" + DtpGirisTarihi.Value.ToString("yyyy-MM-dd") +"',CikisTarihi='"+ DtpCikisTarihi.Value.ToString("yyyy-MM-dd") + "' Where ID="+id+"", baglanti);
             komut.ExecuteNonQuery();
             baglanti.Close();
             verilerigoster();

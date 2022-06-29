@@ -5,6 +5,21 @@ VisualStudioVersion = 16.0.29920.165
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Öğretmen Evi Uygulaması", "Öğretmen Evi Uygulaması\Öğretmen Evi Uygulaması.csproj", "{F1F5F5DD-A9EC-49A9-9D1D-82EDFCB499A1}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Ekran Görüntüleri", "Ekran Görüntüleri", "{97CB6CA2-F056-4B7C-968C-14E3C57EFA55}"
+	ProjectSection(SolutionItems) = preProject
+		..\otomasyon belgeleri\Admin Giriş.png = ..\otomasyon belgeleri\Admin Giriş.png
+		..\otomasyon belgeleri\Ana Sayfa.png = ..\otomasyon belgeleri\Ana Sayfa.png
+		..\otomasyon belgeleri\Gazeteler.png = ..\otomasyon belgeleri\Gazeteler.png
+		..\otomasyon belgeleri\Gelir Gider.png = ..\otomasyon belgeleri\Gelir Gider.png
+		..\otomasyon belgeleri\Mesajlar.png = ..\otomasyon belgeleri\Mesajlar.png
+		..\otomasyon belgeleri\müşteriler.png = ..\otomasyon belgeleri\müşteriler.png
+		..\otomasyon belgeleri\Odalar.png = ..\otomasyon belgeleri\Odalar.png
+		..\otomasyon belgeleri\Radyo.png = ..\otomasyon belgeleri\Radyo.png
+		..\otomasyon belgeleri\Stoklar.png = ..\otomasyon belgeleri\Stoklar.png
+		..\otomasyon belgeleri\Yeni Kayıt.png = ..\otomasyon belgeleri\Yeni Kayıt.png
+		..\otomasyon belgeleri\Şifre Güncelle.png = ..\otomasyon belgeleri\Şifre Güncelle.png
+	EndProjectSection
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
