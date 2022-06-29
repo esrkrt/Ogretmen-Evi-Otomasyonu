@@ -25,6 +25,30 @@ veri tabanı yönetim sistemi olup bu projede;
 - İlke tabanlı veri erişimi
 
 işlemleri için kullanılmıştır.
-## Ekran Görüntüleri
-![Anasayfa].(https://github.com/esrkrt/Ogretmen-Evi-Otomasyonu/blob/master/Ekran%20G%C3%B6r%C3%BCnt%C3%BCleri/Admin%20Giri%C5%9F.png)
+
+<h2> Projenin Özellikleri ve Resimleri<h2>
+<p><ol>
+<li>Giriş Ekranı</li>
+<img width="600" height="300" src="https://github.com/esrkrt/Ogretmen-Evi-Otomasyonu/blob/master/Ekran%20G%C3%B6r%C3%BCnt%C3%BCleri/Admin%20Giri%C5%9F.png">
+<li >Ana Sayfa</li>
+<img width="600" height="300" src="https://github.com/esrkrt/Ogretmen-Evi-Otomasyonu/blob/master/Ekran%20G%C3%B6r%C3%BCnt%C3%BCleri/Ana%20Sayfa.png">
+<li>Yeni Kayıt Ekranı</li>
+<img width="600" height="300" src="https://github.com/esrkrt/Ogretmen-Evi-Otomasyonu/blob/master/Ekran%20G%C3%B6r%C3%BCnt%C3%BCleri/Yeni%20Kay%C4%B1t.png">
+<li>Müşteriler Ekranı</li>
+<img width="600" height="300" src="https://github.com/esrkrt/Ogretmen-Evi-Otomasyonu/blob/master/Ekran%20G%C3%B6r%C3%BCnt%C3%BCleri/m%C3%BC%C5%9Fteriler.png">
+<li>Gelir Gider Ekranı</li>
+<img width="600" height="300" src="https://github.com/esrkrt/Ogretmen-Evi-Otomasyonu/blob/master/Ekran%20G%C3%B6r%C3%BCnt%C3%BCleri/Gelir%20Gider.png">
+<li>Odalar Ekranıu</li>
+<img width="600" height="300" src="https://github.com/esrkrt/Ogretmen-Evi-Otomasyonu/blob/master/Ekran%20G%C3%B6r%C3%BCnt%C3%BCleri/Odalar.png">
+<li>Stoklar Ekranı</li>
+<img width="600" height="300" src="https://github.com/esrkrt/Ogretmen-Evi-Otomasyonu/blob/master/Ekran%20G%C3%B6r%C3%BCnt%C3%BCleri/Stoklar.png">
+<li>Gazeteler Ekranı</li>
+<img width="600" height="300" src="https://github.com/esrkrt/Ogretmen-Evi-Otomasyonu/blob/master/Ekran%20G%C3%B6r%C3%BCnt%C3%BCleri/Gazeteler.png>
+<li>Mesajlaşma Ekranı</li>
+<img width="600" height="300" src="https://github.com/esrkrt/Ogretmen-Evi-Otomasyonu/blob/master/Ekran%20G%C3%B6r%C3%BCnt%C3%BCleri/Mesajlar.png ">
+<li>Radyo Ekranı</li>
+<img width="600" height="300" src="https://github.com/esrkrt/Ogretmen-Evi-Otomasyonu/blob/master/Ekran%20G%C3%B6r%C3%BCnt%C3%BCleri/Radyo.png">
+<li>Şifre Güncelleme Ekranı</li>
+<img width="600" height="300" src="https://github.com/esrkrt/Ogretmen-Evi-Otomasyonu/blob/master/Ekran%20G%C3%B6r%C3%BCnt%C3%BCleri/%C5%9Eifre%20G%C3%BCncelle.png">                                                                                                                                           
+</ol>
 
