@@ -26,5 +26,5 @@ veri tabanı yönetim sistemi olup bu projede;
 
 işlemleri için kullanılmıştır.
 ## Ekran Görüntüleri
-![Anasayfa]
+![Anasayfa].(https://github.com/esrkrt/Ogretmen-Evi-Otomasyonu/blob/master/Ekran%20G%C3%B6r%C3%BCnt%C3%BCleri/Admin%20Giri%C5%9F.png)
 
